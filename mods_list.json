@@ -1,22 +1,22 @@
 [
     {
         "name": "Car",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-82d0968332390601d295/car-forge-1.20.1-1.0.30.1.jar"
+        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/car-forge-1.20.1-1.0.30.1.jar"
     },
     {
         "name": "Furnitur",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-82d0968332390601d295/greenboyfurnituremod-1.0.0-forge-1.20.1.1.jar"
+        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/greenboyfurnituremod-1.0.0-forge-1.20.1.1.jar"
     },
     {
         "name": "JourneyMap",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-82d0968332390601d295/journeymap-1.20.1-5.10.3-forge.1.jar"
+        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/journeymap-1.20.1-5.10.3-forge.1.jar"
     },
     {
         "name": "WorldEdit",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-82d0968332390601d295/worldedit-mod-7.2.15.1.jar"
+        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/worldedit-mod-7.2.15.1.jar"
     },
     {
         "name": "WorldGuard",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-82d0968332390601d295/worldguard-bukkit-7.0.9-dist.1.jar"
+        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/worldguard-bukkit-7.0.9-dist.1.jar"
     }
 ]
