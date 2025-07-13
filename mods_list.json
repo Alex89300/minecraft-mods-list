@@ -1,22 +1,22 @@
 [
-    {
-        "name": "Car",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/car-forge-1.20.1-1.0.30.1.jar"
-    },
-    {
-        "name": "Furnitur",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/greenboyfurnituremod-1.0.0-forge-1.20.1.1.jar"
-    },
-    {
-        "name": "JourneyMap",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/journeymap-1.20.1-5.10.3-forge.1.jar"
-    },
-    {
-        "name": "WorldEdit",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/worldedit-mod-7.2.15.1.jar"
-    },
-    {
-        "name": "WorldGuard",
-        "url": "https://github.com/Alex89300/minecraft-mods/releases/download/untagged-5b0f46ba5a916923c685/worldguard-bukkit-7.0.9-dist.1.jar"
-    }
+  {
+    "name": "Car",
+    "url": "https://download1323.mediafire.com/74cl1bkcuu8gXWxy76E4in2GpQP_FB1CeAErU4xPsQaMzNN_ZFIJk0JXWbG14lhobgTAtnj88e_sPLfQjJ5UgG1uoty3grrSRg9pJ7jysN0N0o_Tcof4_1xNQs4fpkFTfQbEL3dkBIC7LMQP4CPAZP57DdGb1bPmCc0HfcTRwvmwMQ/6gx4imhs9iouoeg/car-forge-1.20.1-1.0.30.jar"
+  },
+  {
+    "name": "Furnitur",
+    "url": "https://download944.mediafire.com/uzh4dnhttungnfsP2Ny_T0W2xREQLq67VTUtkYLtfC4ahweW306fHa3zLs9ilgopdJ8rMtb4jWdSXfrZAkoFAztsBX0pgdxqvDHz9m29Cha3wBx0P7TVMKLKd7m7CYlmTiyDIxyX64uAqPgWStKKemsCrWH4-eF7y2WWRskVZ8YqzQ/evj4vlcth9oppv3/greenboyfurnituremod-1.0.0-forge-1.20.1.jar"
+  },
+  {
+    "name": "JourneyMap",
+    "url": "https://download2269.mediafire.com/cbbzxrspt2agsu9TQBe7aQUqY-xT3l0e8sU6rTi8BWzjtvg8kYSxg-DcccY9XpNrJyHplRfV1qS5aivjzdMUuHykHbsfjGbe7bxU_Aji_LNEGI2rpP24AHt48dhSuzCq71nB5Bss10CPDvGdl24XYCI_-z064etkkUm8qhc6IKejbA/6krm6qj1tvuk77x/journeymap-1.20.1-5.10.3-forge.jar"
+  },
+  {
+    "name": "WorldEdit",
+    "url": "https://download2300.mediafire.com/e8ozm7jmvk4gU0Jl1KP_YYOwr6uRvAFzkXumrcxlxrXlDcXKSP1g_2Fr2yidLH3dMsZOJK6fZqV39VwODtN-1wCh4lMk1Itqe43QJSvoIM1t2lwMehmfX8ps_equP25pSzdwAmE81Ic4omJIBUdZTsIqjvRZCakn0zSERWAQNLHeTg/ivgoyygj7wukhy8/worldedit-mod-7.2.15.jar"
+  },
+  {
+    "name": "WorldGuard",
+    "url": "https://download847.mediafire.com/8nbby06dfbjgqciE2ta3SkUaTv6WiG36aVZV1ncLgoRkRaM7rFbinBdgr4knG2hUR4AdOHbuuVaObW4Av0n4CdKVPW5Xuak5BYqL1xxXpW7j_jLA075qBH1VT0ap3FxWJfXRX8FfGECYK1Ytr_2nkTgAmRfxHZMpaGOWvMPoB2Aiyw/ty0mc91mw2upasd/worldguard-bukkit-7.0.9-dist.jar"
+  }
 ]
