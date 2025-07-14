@@ -1,43 +1,42 @@
 [
-  {
-    "name": "Car",
-    "url": "https://download1323.mediafire.com/74cl1bkcuu8gXWxy76E4in2GpQP_FB1CeAErU4xPsQaMzNN_ZFIJk0JXWbG14lhobgTAtnj88e_sPLfQjJ5UgG1uoty3grrSRg9pJ7jysN0N0o_Tcof4_1xNQs4fpkFTfQbEL3dkBIC7LMQP4CPAZP57DdGb1bPmCc0HfcTRwvmwMQ/6gx4imhs9iouoeg/car-forge-1.20.1-1.0.30.jar"
-  },
-  {
-    "name": "Furnitur",
-    "url": "https://download944.mediafire.com/uzh4dnhttungnfsP2Ny_T0W2xREQLq67VTUtkYLtfC4ahweW306fHa3zLs9ilgopdJ8rMtb4jWdSXfrZAkoFAztsBX0pgdxqvDHz9m29Cha3wBx0P7TVMKLKd7m7CYlmTiyDIxyX64uAqPgWStKKemsCrWH4-eF7y2WWRskVZ8YqzQ/evj4vlcth9oppv3/greenboyfurnituremod-1.0.0-forge-1.20.1.jar"
-  },
-  {
-    "name": "JourneyMap",
-    "url": "https://download2269.mediafire.com/cbbzxrspt2agsu9TQBe7aQUqY-xT3l0e8sU6rTi8BWzjtvg8kYSxg-DcccY9XpNrJyHplRfV1qS5aivjzdMUuHykHbsfjGbe7bxU_Aji_LNEGI2rpP24AHt48dhSuzCq71nB5Bss10CPDvGdl24XYCI_-z064etkkUm8qhc6IKejbA/6krm6qj1tvuk77x/journeymap-1.20.1-5.10.3-forge.jar"
-  },
-  {
-    "name": "WorldEdit",
-    "url": "https://download2300.mediafire.com/e8ozm7jmvk4gU0Jl1KP_YYOwr6uRvAFzkXumrcxlxrXlDcXKSP1g_2Fr2yidLH3dMsZOJK6fZqV39VwODtN-1wCh4lMk1Itqe43QJSvoIM1t2lwMehmfX8ps_equP25pSzdwAmE81Ic4omJIBUdZTsIqjvRZCakn0zSERWAQNLHeTg/ivgoyygj7wukhy8/worldedit-mod-7.2.15.jar"
-  },
-  {
-    "name": "WorldGuard",
-    "url": "https://download847.mediafire.com/bhi0ummaem1g9RxPPmnURky4WDNTL0k8CLL6FQiYHnrm0iCwcywnkn06sGfcYARmgLaQu6FHaDOEFczSgwVeZ4DaHhNs7tre1rNm3q_zJ8bp_ETBiEfRveIAoRiPcAS18Gq19N0K-HYIDc-mKhWwJLkrzYPpoXUcBgXtD1osj341mA/ty0mc91mw2upasd/worldguard-bukkit-7.0.9-dist.jar"
-  },
     {
-    "name": "Security",
-    "url": "https://download2278.mediafire.com/oqxnrvw9vbdg_8nPsDu6AJeQB3wLecGy6U1nEYAXx0LJJPRlUxzH5_zYOMV2hgepo2rKQqyS70ikubDFWS1J9q4P9x7kBavc94u92OCBWx91shqTKeNS4swk46viqwauko8ZwPei8PPKKrXswX4g__cQaZWEu0BQQz54KFz_E8gSaA/pyy5gvlw7d980b6/%5B1.20.1%5D+SecurityCraft+v1.10.0.1.jar"
-  },
-    {
-    "name": "SignPost",
-    "url": "https://download1326.mediafire.com/avndi0ir5rhgLhE0SFH3ZToJ8uIk_nAYYEphlHRS9TElMuivukoHoydcazNIuq8azuWqkX9ccfr21AIdoy9tpOoqotTnwn-xUcvFtVq010vSSx4j_Dm6qYXzpqwb-M2o78jJc_38sESa8HvjwHSJXuC8kawColv5z9oajoYqjwsfUg/3d89he1gjiab4q0/signpost-1.20.1-2.02.0.jar"
-  },
-    {
-    "name": "mcw",
-    "url": "https://download851.mediafire.com/3vsm3e4ytthgKbEeXRJBXFdlEwg-BoD0N6ClS1q0t8av-VudHUI78PHkN99z0maUpdPOxrE71ovwSm32ep3Sycd3GlnKNrcfEBLoEwlXvatV1M12MdmRuRBKKXaKbvgFqZKaPZWFyMUsXDqbT75AbWSqkGUww5b1g-XyViPlGL_6Tg/k1nou7ftkvbfgl7/mcw_tfc_aio-0.2.30-1.20.1.jar"
-  },
-    {
-    "name": "Essential",
-    "url": "https://download2261.mediafire.com/7wbpbgx2ys8gaSh7xbR0s6eqUwOH_s8X28j9zxaXQV1uUIzb_viWv4K6Jid3q3YqvLuTVqslzV1dzSRP4zZFdLUxuULbXBxaod5_ltwix_jFhnpXyW59doOwsOMjU58t464O_r_LFtkGZ17J-bvKyN7q2tnkg3aN8UP8htbRv_328Q/l62oyfeujhd53gy/Essential_1-3-8-4_forge_1-20-1.jar"
-  },
+        "name": "Car",
+        "url": "https://download1323.mediafire.com/74cl1bkcuu8gXWxy76E4in2GpQP_FB1CeAErU4xPsQaMzNN_ZFIJk0JXWbG14lhobgTAtnj88e_sPLfQjJ5UgG1uoty3grrSRg9pJ7jysN0N0o_Tcof4_1xNQs4fpkFTfQbEL3dkBIC7LMQP4CPAZP57DdGb1bPmCc0HfcTRwvmwMQ/6gx4imhs9iouoeg/car-forge-1.20.1-1.0.30.jar"
     },
     {
-    "name": "CustomNPCs",
-    "url": "https://download1501.mediafire.com/o934w6v3i8wgQd_fwzLvvIjQjxN9rmLm7RUXT969zk-KOkCympcrsT-bQOWPCTDAyc5C6vYQZ7s9y0RifxTSPmm--MatNjDe9T1NN8w20h1iN3AbQvFYieBqFXsKPn6tTvKv1qaTW-9x9CJhpTq0tVBFbWRZpCrS4DdGoZqejhBJXQ/ft0be5ccqsk03ee/CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar"
-  },
+        "name": "Furnitur",
+        "url": "https://download944.mediafire.com/uzh4dnhttungnfsP2Ny_T0W2xREQLq67VTUtkYLtfC4ahweW306fHa3zLs9ilgopdJ8rMtb4jWdSXfrZAkoFAztsBX0pgdxqvDHz9m29Cha3wBx0P7TVMKLKd7m7CYlmTiyDIxyX64uAqPgWStKKemsCrWH4-eF7y2WWRskVZ8YqzQ/evj4vlcth9oppv3/greenboyfurnituremod-1.0.0-forge-1.20.1.jar"
+    },
+    {
+        "name": "JourneyMap",
+        "url": "https://download2269.mediafire.com/cbbzxrspt2agsu9TQBe7aQUqY-xT3l0e8sU6rTi8BWzjtvg8kYSxg-DcccY9XpNrJyHplRfV1qS5aivjzdMUuHykHbsfjGbe7bxU_Aji_LNEGI2rpP24AHt48dhSuzCq71nB5Bss10CPDvGdl24XYCI_-z064etkkUm8qhc6IKejbA/6krm6qj1tvuk77x/journeymap-1.20.1-5.10.3-forge.jar"
+    },
+    {
+        "name": "WorldEdit",
+        "url": "https://download2300.mediafire.com/e8ozm7jmvk4gU0Jl1KP_YYOwr6uRvAFzkXumrcxlxrXlDcXKSP1g_2Fr2yidLH3dMsZOJK6fZqV39VwODtN-1wCh4lMk1Itqe43QJSvoIM1t2lwMehmfX8ps_equP25pSzdwAmE81Ic4omJIBUdZTsIqjvRZCakn0zSERWAQNLHeTg/ivgoyygj7wukhy8/worldedit-mod-7.2.15.jar"
+    },
+    {
+        "name": "WorldGuard",
+        "url": "https://download847.mediafire.com/bhi0ummaem1g9RxPPmnURky4WDNTL0k8CLL6FQiYHnrm0iCwcywnkn06sGfcYARmgLaQu6FHaDOEFczSgwVeZ4DaHhNs7tre1rNm3q_zJ8bp_ETBiEfRveIAoRiPcAS18Gq19N0K-HYIDc-mKhWwJLkrzYPpoXUcBgXtD1osj341mA/ty0mc91mw2upasd/worldguard-bukkit-7.0.9-dist.jar"
+    },
+    {
+        "name": "Security",
+        "url": "https://download2278.mediafire.com/oqxnrvw9vbdg_8nPsDu6AJeQB3wLecGy6U1nEYAXx0LJJPRlUxzH5_zYOMV2hgepo2rKQqyS70ikubDFWS1J9q4P9x7kBavc94u92OCBWx91shqTKeNS4swk46viqwauko8ZwPei8PPKKrXswX4g__cQaZWEu0BQQz54KFz_E8gSaA/pyy5gvlw7d980b6/%5B1.20.1%5D+SecurityCraft+v1.10.0.1.jar"
+    },
+    {
+        "name": "SignPost",
+        "url": "https://download1326.mediafire.com/avndi0ir5rhgLhE0SFH3ZToJ8uIk_nAYYEphlHRS9TElMuivukoHoydcazNIuq8azuWqkX9ccfr21AIdoy9tpOoqotTnwn-xUcvFtVq010vSSx4j_Dm6qYXzpqwb-M2o78jJc_38sESa8HvjwHSJXuC8kawColv5z9oajoYqjwsfUg/3d89he1gjiab4q0/signpost-1.20.1-2.02.0.jar"
+    },
+    {
+        "name": "mcw",
+        "url": "https://download851.mediafire.com/3vsm3e4ytthgKbEeXRJBXFdlEwg-BoD0N6ClS1q0t8av-VudHUI78PHkN99z0maUpdPOxrE71ovwSm32ep3Sycd3GlnKNrcfEBLoEwlXvatV1M12MdmRuRBKKXaKbvgFqZKaPZWFyMUsXDqbT75AbWSqkGUww5b1g-XyViPlGL_6Tg/k1nou7ftkvbfgl7/mcw_tfc_aio-0.2.30-1.20.1.jar"
+    },
+    {
+        "name": "Essential",
+        "url": "https://download2261.mediafire.com/7wbpbgx2ys8gaSh7xbR0s6eqUwOH_s8X28j9zxaXQV1uUIzb_viWv4K6Jid3q3YqvLuTVqslzV1dzSRP4zZFdLUxuULbXBxaod5_ltwix_jFhnpXyW59doOwsOMjU58t464O_r_LFtkGZ17J-bvKyN7q2tnkg3aN8UP8htbRv_328Q/l62oyfeujhd53gy/Essential_1-3-8-4_forge_1-20-1.jar"
+    },
+    {
+        "name": "CustomNPCs",
+        "url": "https://download1501.mediafire.com/o934w6v3i8wgQd_fwzLvvIjQjxN9rmLm7RUXT969zk-KOkCympcrsT-bQOWPCTDAyc5C6vYQZ7s9y0RifxTSPmm--MatNjDe9T1NN8w20h1iN3AbQvFYieBqFXsKPn6tTvKv1qaTW-9x9CJhpTq0tVBFbWRZpCrS4DdGoZqejhBJXQ/ft0be5ccqsk03ee/CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar"
+    }
 ]
